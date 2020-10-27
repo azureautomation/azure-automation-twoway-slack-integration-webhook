@@ -1,0 +1,20 @@
+{
+    "Author": "Trevor Sullivan [MVP]",
+    "ContentSize": 9165,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/azure-automation-twoway-slack-integration-webhook/master/Slack-Integration-Trevor-Sullivan.ps1",
+    "DownloadCount": 2025,
+    "Id": "Azure-Automation-Two-Way-0361acfb",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 340,
+    "RaterCount": 1,
+    "Rating": 5.0,
+    "ReleaseDate": "2016-2-14T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "This Azure Automation Runbook demonstrates how to run PowerShell code inside an Azure Automation Runbook, in response to a Slack integration command, and respond by sending a message to a Slack channel, using an incoming [Slack] Webhook.",
+    "Title": "Azure Automation Two-Way Slack Integration [Webhook]",
+    "UpdatedDate": "2016-5-19T00:00:00",
+    "Url": "https://github.com/azureautomation/azure-automation-twoway-slack-integration-webhook",
+    "UserTags": "Azure, Microsoft Azure, Powershell"
+}
